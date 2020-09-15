@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """Hello <i><b>{}</b></i>,
 
-This is a Telegram Rename clone of <a href='https://t.me/renamer23_bot'>Renamer ⚡</a> by {}
+This is a Telegram Rename Bot of <a href='https://t.me/S4HChannel'>Channel ⚡</a> by {}
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
@@ -27,7 +27,7 @@ Type /help for more details."""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
 
-I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
+I am Renamer bot ✍ by <a href='https://t.me/Lion_xd'>My Father 👨‍🏫</a>
     
 1. Send Me A Thumbnail.
 
@@ -38,11 +38,11 @@ I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
 4. Reply to that message with <code>/rename_vidoe new name.extension</code>. with custom thumbnail support.\n(uploading as Video)
 
    
-<b>Thanks to <i><a href="https://t.me/Ns_AnoNymous">Anonymous 👨‍🏫</a></i> for his source code. check /about for source code</b>
+<b>Thanks to <i><a href="https://t.me/Lion_xd">Anonymous 👨‍🏫</a></i> for his source code. check /about for source code</b>
 
 --------
 
-Support Group : @anonymousbotdiscussion"""
+Support Group : @S4HTeam"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "🤦‍♂️ Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.\n\n(For uploading as file).\n\nSee /help for mor information. "
     REPLY_TO_DOC_FOR_RENAME_VIDEO = "🤦‍♂️ Reply to a Telegram media to `/rename_video New Name.extension` with custom thumbnail support.\n\n(For uploading as video).\n\nSee /help for mor information."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
@@ -61,10 +61,10 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [GooD Guy](https://t.me/Lion_xD)
 
-📮 Channel: [INFOTEL](https://t.me/InFoTel14)
+📮 Channel: [CHANNEL](https://t.me/S4HChannel)
 
-**👥 Group:** [INFOTEL GROUP](https://t.me/InFoTelGroup)
+**👥 Group:** [SUPPORT GROUP](https://t.me/S4HTeam)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
+**💻 Source Code:**[Press Me](https://github.com/Hemchand-King/Rename-Bot-V2.1)"""
