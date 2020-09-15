@@ -12,11 +12,11 @@ An Open Source Rename Telegram RoBot
 
 #### The Easy Way
 
-**Watch infotel Video for knowing how to Create yoir own Bot** - 👉 https://youtu.be/yYHrSnuYXpA
+**Watch infotel Video for knowing how to Create yoir own Bot** 
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Hemchand-King/Rename-Bot-V2.1/tree/master)
 
 ## Available BotFather commands
 ```
@@ -39,7 +39,7 @@ cp sample_config.py config.py
 python bot.py
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@anonymousbotdiscussion](https://telegram.dog/anonymousbotdiscussion)
+- For FeedBack and Suggestions, please feel free to say in [@S4HTeam](https://telegram.dog/S4HTeam)
 
 #### LICENSE
 - GPLv3
